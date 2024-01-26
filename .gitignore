@@ -12,3 +12,5 @@ __pycache__/
 .AppleDouble
 .LSOverride
 Icon
+
+ssvm_workflow.py
