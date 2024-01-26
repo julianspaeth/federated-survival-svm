@@ -1,0 +1,6 @@
+dataset,number of clients,runtime (in s),type
+synthetic,1,88.51292586326599,federated
+synthetic,3,94.66108512878418,smpc
+synthetic,3,97.4151828289032,federated
+synthetic,5,106.70149898529051,smpc
+synthetic,5,91.47067189216614,federated
